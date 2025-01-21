@@ -4,7 +4,7 @@ imgaug==0.4.0
 ipython==7.34.0
 ipython-genutils==0.2.0
 ipython-sql==0.5.0
-keras==2.13.1
+keras==2.14.0
 matplotlib==3.7.1
 numpy==1.23.5
 opencv-contrib-python==4.8.0.76
